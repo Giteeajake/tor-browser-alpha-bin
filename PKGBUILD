@@ -1,4 +1,4 @@
-#Maintainer:	Giteeajake <giteeajake@qq.com>
+#Maintainer:	mumi jim <echo "=02bj5yav9Gb0V3bA1Waq9VatVXb" | rev | base64 -d>
 
 #please run "gpg --auto-key-locate nodefault,wkd --locate-keys torbrowser@torproject.org" or "curl -s https://openpgpkey.torproject.org/.well-known/openpgpkey/torproject.org/hu/kounek7zrdx745qydx6p59t9mqjpuhdf |gpg --import -" before running "makepkg"
 #if you want to update without AUR. Please run "tor-browser -u"
